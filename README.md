@@ -1,13 +1,25 @@
 ### 
 <h1 align="center">Opaa!👋 Meu nome é Rafael Constantino (ele/dele)  </h1>  
 
-<p>Costumava ser engenheiro químico, também já mexendo com programação, mas hoje encontrei a luz e a salvação, que é o desenvolvimento web! 🥰</p>
+<p>Atualmente sou desenvolvedor FullStack, mas já fui engenheiro químico! 🥰</p>
 
 <div>
 <a href="https://github.com/ConstantinoRafael">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConstantinoRafael&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ConstantinoRafael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+<h3 align="left">📶 Conecte:</h3>  
+<p align="left">  
+<a href="https://www.linkedin.com/in/rafael-constantino-s/" target="blank">
+	<img align="center"
+	src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="sara-rocha-3b979114b" height="40" width="40" />
+	</a>  
+	<a href="https://www.instagram.com/constantino_r/" target="blank">
+	<img align="center"
+	src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="sararchh" height="40" width="40" />
+</a> 
+</p>
 
 ### 💻 Principais tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
